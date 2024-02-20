@@ -34,11 +34,11 @@ _navigatetohome();
               children: [
               Center(
                 child:Image.asset(
-                  'assets/images/bus.png',
+                  'assets/logo.png',
                 ),
               ),
                 Text(
-                  " UPES BUS TARCKER",
+                  " UrbanVoyage ",
                   style: TextStyle(
                     height: 5,
                     color: Colors.blueAccent,
